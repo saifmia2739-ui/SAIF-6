@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.navbar {
+    background-color: pink;
+}
+.navbar img {
+    height: 50px;
+    padding: 25px;
+
+}
+.navbar ul {
+    list-style:none;
+    float: right;
+}
+.navbar li {
+    float: left;
+    padding: 15px 10px; 
+}
+.active {
+    color: brown;
+}
+img{
+    padding: 50px;
+}
